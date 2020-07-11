@@ -19,6 +19,7 @@ We will use HSV instead of RBG as the colors we will use can have different inte
 
 **S** : Saturation
 Saturation describes the amount of grey in a particular colour, from 0 to 100 percent. Reducing this component toward zero introduces more grey and produces a faded effect. Sometimes, saturation appears as a range from just 0–1, where 0 is grey, and 1 is a primary colour.
+
 **V** : Value (Brightness)
 Value works in conjunction with saturation and describes the brightness or intensity of the colour, from 0–100 percent, where 0 is completely black, and 100 is the brightest and reveals the most colour.
 
